@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+.celibrity-table {
+  margin: auto;
+}
+.celibrity-table img {
+  max-width: 100px;
+}
 
 .App-logo {
   height: 40vmin;
